@@ -59,7 +59,7 @@ Live model runs, pipeline instances, baseline definitions, and workspace telemet
 
 * **Kaggle Notebook:** [Kaggle Notebook Link](https://www.kaggle.com/code/sudebghoshg25ait2113/notebook87162508f5)
 * **Hugging Face:** [Hugging Face Profile](https://huggingface.co/sudebghosh)
-* **W&B Dashboard:** [W&B Project Dashboard](https://wandb.ai/g25ait2113-iitj/mlops-assignment2?nw=nwuserg25ait2113)
+* **W&B Dashboard:** [https://wandb.ai/g25ait2113-iitj/huggingface?nw=nwuserg25ait2113)
 * **Source Colab:** [Google Colab Source](https://colab.research.google.com/drive/15yJsCtRu4kgqCLT44Tjhs3SFOT5GITqC?usp=sharing)
 """
 
